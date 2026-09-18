@@ -1,0 +1,6 @@
+{
+  "name": "وكالة شجين للسفريات",
+  "description": "تطبيق وكالة شجين للسفريات والسياحة لحجز الرحلات والتأشيرات وبرامج الحج والعمرة والنقل السياحي وإدارة الخدمات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
